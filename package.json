@@ -1,0 +1,27 @@
+{
+  "name": "api-test",
+  "version": "0.1.0",
+  "description": "A compact and easy to use API testing framework for Node.js",
+  "main": "api-test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/romshark/api-test.git"
+  },
+  "keywords": [
+    "API",
+    "test"
+  ],
+  "author": "Roman Sharkov <roman.sharkov@qbeon.com> (https://qbeon.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/romshark/api-test/issues"
+  },
+  "homepage": "https://github.com/romshark/api-test#readme",
+  "dependencies": {
+    "async": "^2.0.0-rc.6",
+    "request": "^2.72.0"
+  }
+}
